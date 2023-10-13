@@ -1,0 +1,64 @@
+/* External CSS */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: white;
+}
+
+h1 {
+  color: #ff6347;
+}
+
+h2 {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+}
+
+h3 {
+  color: #333;
+  padding-left: 10px;
+}
+
+main {
+  margin: 20px;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #000;
+}
+
+#pantry {
+  background-color: #ffebcd;
+}
+
+#freezer {
+  background-color: #add8e6;
+}
+
+ul,
+ol {
+  margin-left: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
